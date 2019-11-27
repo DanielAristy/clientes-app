@@ -1,4 +1,4 @@
-import { Cliente } from './cliente';
+import { Cliente } from './model/cliente';
 
 export const CLIENTES: Cliente[] = [
     {id: 1, nombre: 'Daniel', apellido: 'Aristizabal', fecha: '22-02-1994', email: 'dan.y.ac@hotmail.com'},
